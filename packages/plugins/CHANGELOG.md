@@ -1,5 +1,39 @@
 # @alita/plugins
 
+## 3.5.5
+
+### Patch Changes
+
+- [#669](https://github.com/alitajs/alita/pull/669) [`3c96755c64dda0ff4fbfe8607adeedfb2d16b419`](https://github.com/alitajs/alita/commit/3c96755c64dda0ff4fbfe8607adeedfb2d16b419) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: add plugin extends app
+
+- [#672](https://github.com/alitajs/alita/pull/672) [`07499355fd878f77588fa81a0eb6569da097a413`](https://github.com/alitajs/alita/commit/07499355fd878f77588fa81a0eb6569da097a413) Thanks [@drizzlesconsin](https://github.com/drizzlesconsin)! - replace includes check with instanceof RegExp
+
+## 3.5.4
+
+### Patch Changes
+
+- [#674](https://github.com/alitajs/alita/pull/674) [`4b711505de2f5a7a8d311fb97eba48cfff358a11`](https://github.com/alitajs/alita/commit/4b711505de2f5a7a8d311fb97eba48cfff358a11) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: umi@4.3.30
+
+## 3.5.3
+
+### Patch Changes
+
+- [#667](https://github.com/alitajs/alita/pull/667) [`6dc317628128544d887eae519a2af9ed3724c619`](https://github.com/alitajs/alita/commit/6dc317628128544d887eae519a2af9ed3724c619) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: upload mako
+
+- [#667](https://github.com/alitajs/alita/pull/667) [`ae9f6e7d91f638c7997f2656a81e54a6054fd91a`](https://github.com/alitajs/alita/commit/ae9f6e7d91f638c7997f2656a81e54a6054fd91a) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: support mako px2rem
+
+## 3.5.2
+
+### Patch Changes
+
+- [#663](https://github.com/alitajs/alita/pull/663) [`8373c1c475682e5452c7bc1859bfe88b07fcacc9`](https://github.com/alitajs/alita/commit/8373c1c475682e5452c7bc1859bfe88b07fcacc9) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: hd support mako
+
+## 3.5.1
+
+### Patch Changes
+
+- [#661](https://github.com/alitajs/alita/pull/661) [`4c4fdabc5714c1bd4fcdaca2eb0912456a56d642`](https://github.com/alitajs/alita/commit/4c4fdabc5714c1bd4fcdaca2eb0912456a56d642) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: update umi@4.3.10
+
 ## 3.5.0
 
 ### Minor Changes

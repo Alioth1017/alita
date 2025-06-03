@@ -1,5 +1,23 @@
 # create-alita
 
+## 3.3.3
+
+### Patch Changes
+
+- [#674](https://github.com/alitajs/alita/pull/674) [`4b711505de2f5a7a8d311fb97eba48cfff358a11`](https://github.com/alitajs/alita/commit/4b711505de2f5a7a8d311fb97eba48cfff358a11) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: umi@4.3.30
+
+## 3.3.2
+
+### Patch Changes
+
+- [#667](https://github.com/alitajs/alita/pull/667) [`6dc317628128544d887eae519a2af9ed3724c619`](https://github.com/alitajs/alita/commit/6dc317628128544d887eae519a2af9ed3724c619) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: upload mako
+
+## 3.3.1
+
+### Patch Changes
+
+- [#661](https://github.com/alitajs/alita/pull/661) [`4c4fdabc5714c1bd4fcdaca2eb0912456a56d642`](https://github.com/alitajs/alita/commit/4c4fdabc5714c1bd4fcdaca2eb0912456a56d642) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - feat: update umi@4.3.10
+
 ## 3.3.0
 
 ### Minor Changes
